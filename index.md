@@ -19,9 +19,9 @@ tags: home
 I can usually be found programming or reading.
 I'm bullish on, and a big booster of:
 
-- Good books. Two recent favourites are [_Remarkably Bright Creatures_](https://shelbyvanpelt.com/books/remarkably-bright-creatures/), [_Walden_](https://www.gutenberg.org/files/205/205-h/205-h.htm), and [_Extremely Loud and Incredibly Close_] (https://www.goodreads.com/en/book/show/4588.Extremely_Loud_Incredibly_Close).
+- Good books. Recent favourites are [_Remarkably Bright Creatures_](https://shelbyvanpelt.com/books/remarkably-bright-creatures/), [_Walden_](https://www.gutenberg.org/files/205/205-h/205-h.htm), and [_Extremely Loud and Incredibly Close_](https://www.goodreads.com/en/book/show/4588.Extremely_Loud_Incredibly_Close).
 - 
 
 <br>
 
-[**See latest blog posts →**]({{ site.baseurl }}/blog)
+[Welcome to my portfolio of projects. Feel free to click around.]({{ site.baseurl }}/portfolio)
