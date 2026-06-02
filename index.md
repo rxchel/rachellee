@@ -8,9 +8,9 @@ tags: home
 ### I'm a chemical engineering undergraduate at the Cooper Union.
 
 ### I have worked on computational projects simulating 
-## - PFAS molecules in plasmas used in semiconductor chip etching, 
-## - defect behavior in halide perovskites used for optoelectronic applications, and
-## - structure formation in charged particle systems..
+##### - PFAS molecules in plasmas used in semiconductor chip etching, 
+##### - defect behavior in halide perovskites used for optoelectronic applications, and
+##### - structure formation in charged particle systems..
 
 ### Currently, I am continuing to explore the world of computational chemistry and materials science.
 
