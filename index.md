@@ -1,27 +1,120 @@
 ---
 layout: default
-tags: home
+title: About Me
+permalink: /
 ---
 
-# Hello there, <br/> I'm Rachel Lee.
+# Hello, I'm Rachel Lee.
 
-### I'm a chemical engineering undergraduate at the Cooper Union.
+I'm a chemical engineering undergraduate at [**The Cooper Union**](https://cooper.edu/admissions/facts) interested
+in computational chemistry, materials science, and scientific computing.
 
-### I have worked on computational projects simulating 
-#### - PFAS molecules in plasmas used in semiconductor chip etching, 
-#### - defect behavior in halide perovskites used for optoelectronic applications, and
-#### - structure formation in charged particle systems..
+My work focuses on using computational methods to investigate chemical and
+materials systems at the molecular and microscopic scales.
 
-### Currently, I am continuing to explore the world of computational chemistry and materials science.
+---
 
-<br>
+## About Me
 
-I can usually be found programming, reading, or doing some sort of crafts work.
-I'm bullish on, and a big booster of:
+I am interested in using computational modeling and scientific programming to
+understand complex chemical and physical systems.
 
-- Good books. Recent favourites are [_Remarkably Bright Creatures_](https://shelbyvanpelt.com/books/remarkably-bright-creatures/), [_Walden_](https://www.gutenberg.org/files/205/205-h/205-h.htm), and [_Extremely Loud and Incredibly Close_](https://www.goodreads.com/en/book/show/4588.Extremely_Loud_Incredibly_Close).
-- 
+Through my research experiences, I have worked on projects involving
+electron-molecule scattering, plasma chemistry, semiconductor processing,
+halide perovskites, and charged particle systems.
 
-<br>
+I enjoy projects that combine physical chemistry and materials science with
+programming, numerical methods, and computational modeling.
 
-[Welcome to my portfolio of projects. Feel free to click around.]({{ site.baseurl }}/portfolio)
+---
+
+## Research Interests
+
+My current research interests include:
+
+- Computational chemistry
+- Quantum chemistry
+- Electron-molecule scattering
+- Materials science
+- Defects in semiconductor materials
+- Plasma chemistry
+- Scientific computing and numerical simulation
+
+---
+
+## Technical Skills
+
+### Programming
+
+- Python
+- [Add other languages you use]
+
+### Scientific Software
+
+- UKRmol+
+- ASTRA
+- Psi4
+- [Add others]
+
+### Computational Tools
+
+- Linux / HPC
+- Git / GitHub
+- [Add others]
+
+---
+
+## Education
+
+### The Cooper Union
+
+**B.Eng. in Chemical Engineering**
+
+New York, NY
+
+---
+
+## Research Experience
+
+### [Research Position / Program]
+
+**[Lab / Institution]** · [Dates]
+
+Brief description of your research and your role.
+
+### [Research Position / Program]
+
+**[Lab / Institution]** · [Dates]
+
+Brief description of your research and your role.
+
+---
+
+## Selected Projects
+
+- [Electron-Molecule Scattering](./projects/electron-scattering/)
+- [PFAS in Plasma Processing](./projects/pfas/)
+- [Halide Perovskite Defects](./projects/perovskites/)
+- [Charged Particle Systems](./projects/charged-particles/)
+
+---
+
+## Beyond Research
+
+Outside of research, I can usually be found programming, reading, or working
+on some sort of crafts project.
+
+I'm also a big believer in good books. Some recent favorites include
+[_Remarkably Bright Creatures_](https://shelbyvanpelt.com/books/remarkably-bright-creatures/),
+[_Walden_](https://www.gutenberg.org/files/205/205-h/205-h.htm), and
+[_Extremely Loud and Incredibly Close_](https://www.goodreads.com/en/book/show/4588.Extremely_Loud_Incredibly_Close).
+
+---
+
+## Contact
+
+**Email:** [lee.rxchel@gmail.com]
+
+**LinkedIn:** [https://www.linkedin.com/in/rachel-lee-7508681a3/]
+
+**Resume:** [View my resume]
