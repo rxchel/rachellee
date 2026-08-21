@@ -58,17 +58,21 @@ function of incident electron energy.
 The resulting cross sections showed important scattering features, including
 a Ramsauer-Townsend minimum and resonance structures.
 
-Figures and additional analysis will be added here.
+### Electron-Scattering Cross Section
+
+![Electron-scattering cross section]({{ site.baseurl }}/assets/images/electron-scattering/CH4-geo-opt-D2.png)
+
+*Calculated electron-scattering cross section as a function of incident electron energy.*
 
 ## Deliverables
 
-Project deliverables will be added here, including:
+### Presentation
 
-- Research poster
-- Presentation
-- Project report
-- Figures and data
-- Source code
+[View the project presentation (PDF)]({{ site.baseurl }}/assets/files/electron-scattering/Lee Rachel SURF 2026 Presentation.pdf})
+
+### Report
+
+[View the project report (PDF)]({{ site.baseurl }}/assets/files/electron-scattering/Report (3).pdf})
 
 ## Summary
 
