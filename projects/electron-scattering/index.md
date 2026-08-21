@@ -6,63 +6,71 @@ permalink: /projects/electron-scattering/
 
 # Electron-Molecule Scattering
 
-**Computational Chemistry · Electron Scattering · Quantum Chemistry · HPC**
+**Computational Chemistry · Quantum Scattering · Scientific Computing · HPC**
 
 ## Project Overview
 
-This project investigates low-energy electron scattering from methane (CH₄)
-using computational quantum chemistry and scattering theory. The goal was to
-calculate electron-scattering cross sections and characterize features of the
-scattering process, including Ramsauer-Townsend minima and resonance structures.
+This project investigated low-energy electron scattering from methane (CH₄)
+using computational quantum chemistry and scattering theory.
 
-I used two independent computational approaches, **UKRmol+** and **ASTRA**, to
-investigate the scattering problem and compare the resulting predictions.
+The objective was to calculate electron-scattering cross sections and identify
+important features of the scattering process, including the
+Ramsauer-Townsend (R-T) minimum and resonance structures.
+
+I investigated the scattering problem using two computational approaches,
+**UKRmol+** and **ASTRA**, and compared the resulting calculations with one
+another and with literature values.
 
 ---
 
 ## My Contributions
 
-My work on this project spanned the setup, execution, analysis, and
-interpretation of the scattering calculations.
+I worked across the computational workflow, from preparing the molecular model
+and configuring scattering calculations to running simulations on a
+high-performance computing cluster and analyzing the resulting data.
 
-### Electronic Structure and Model Preparation
+### Molecular Model Preparation
 
-I prepared the molecular electronic structure calculations required as input
-for the scattering calculations, including molecular geometry optimization and
-molecular orbital generation using **Psi4**.
+I prepared the molecular electronic structure used as the basis for the
+scattering calculations.
 
-I investigated different basis sets, symmetry settings, and active-space
-parameters to establish computational models suitable for the scattering
-calculations.
+This included working with **Psi4** to generate molecular orbitals and
+investigating computational parameters including molecular symmetry, basis
+sets, and active-space settings.
 
-### UKRmol+ Scattering Calculations
+### UKRmol+ Calculations
 
-I configured and ran electron-molecule scattering calculations using
-**UKRmol+**, including the construction of the molecular target and continuum
-basis and the setup of close-coupling calculations.
+I set up and ran electron-molecule scattering calculations using
+**UKRmol+** and its close-coupling framework.
 
-I performed calculations on a high-performance computing cluster and
-troubleshot issues involving continuum basis construction, target-state
-coupling, and calculation settings.
+I worked with the molecular target representation, continuum basis, target
+states, and scattering-model parameters. I also diagnosed and troubleshot
+issues encountered during calculation setup and execution.
 
-### ASTRA Scattering Calculations
+### ASTRA Calculations
 
-I independently set up electron-scattering calculations using **ASTRA** and
-used the results to provide a comparison with the UKRmol+ calculations.
+I independently configured and ran scattering calculations using **ASTRA**.
 
-This involved preparing the required input files, selecting appropriate
-scattering-model parameters, running calculations on an HPC system, and
-processing the resulting scattering data.
+I investigated how choices such as basis set, active-space size, angular
+momentum, and target-state representation affected the calculations and used
+ASTRA as an independent computational approach for comparison with UKRmol+.
 
-### Data Analysis and Benchmarking
+### HPC Computing & Troubleshooting
 
-I analyzed the calculated scattering cross sections as a function of incident
-electron energy and identified characteristic features of the scattering
-curves.
+The calculations were performed on a Linux-based high-performance computing
+cluster.
 
-I compared the calculated results from UKRmol+ and ASTRA with literature
-values to evaluate the ability of each computational approach to reproduce
-experimentally and theoretically important scattering features.
+I developed experience working with command-line workflows, managing
+computational jobs, interpreting program output and error messages, and
+troubleshooting calculations that did not initially run as expected.
+
+### Data Analysis
+
+I processed and analyzed calculated electron-scattering cross sections as a
+function of incident electron energy using **Python**.
+
+I compared results from UKRmol+ and ASTRA and benchmarked the calculations
+against literature values to evaluate the calculated scattering behavior.
 
 ---
 
@@ -70,47 +78,44 @@ experimentally and theoretically important scattering features.
 
 ### UKRmol+
 
-UKRmol+ was used to perform electron-molecule scattering calculations within a
-close-coupling framework. The calculations included a configuration-interaction
-description of the molecular target together with a continuum representation
-of the incoming electron.
+UKRmol+ was used to perform electron-molecule scattering calculations within
+a close-coupling framework.
+
+The calculations combined a quantum-chemical description of the molecular
+target with a representation of the incident electron and were used to
+calculate scattering observables.
 
 ### ASTRA
 
-ASTRA was used as an independent approach to calculate electron-scattering
-observables. Comparing the ASTRA and UKRmol+ calculations provided a way to
-evaluate the effects of computational method, basis set, and model-space
-choices on the predicted scattering behavior.
+ASTRA was used as an independent computational approach to calculate
+electron-scattering observables.
+
+Using both UKRmol+ and ASTRA allowed me to investigate how computational
+methodology and model parameters influence the calculated scattering results.
 
 ---
 
-## Software & Technical Skills
+## Tools & Skills
 
-**Scientific Software**
+**Quantum Chemistry**
 
 - UKRmol+
 - ASTRA
 - Psi4
+- Configuration-interaction calculations
+- Close-coupling scattering methods
 
 **Programming & Data Analysis**
 
 - Python
-- Data visualization
 - Numerical data analysis
+- Scientific visualization
 
 **Computational Environment**
 
 - Linux
-- High-performance computing (HPC)
-- Bash / command-line workflows
-
-**Methods**
-
-- Quantum chemistry
-- Configuration interaction
-- Close-coupling scattering calculations
-- Electron-molecule scattering
-- Computational benchmarking
+- High-performance computing
+- Command-line workflows
 
 ---
 
@@ -119,14 +124,12 @@ choices on the predicted scattering behavior.
 The calculations produced electron-scattering cross sections as a function of
 incident electron energy.
 
-The calculated scattering curves reproduced important qualitative features of
-the methane electron-scattering problem, including a Ramsauer-Townsend minimum
-and resonance structures.
+Both computational approaches captured important features of the methane
+electron-scattering problem, including a Ramsauer-Townsend minimum and
+resonance structures.
 
-The results from the two computational approaches were compared with one
-another and with values reported in the literature. This comparison provided
-insight into how choices such as basis set, active space, target-state
-representation, and scattering model affect the calculated results.
+The calculated results were compared between UKRmol+ and ASTRA and benchmarked
+against literature values.
 
 ### Molecular Geometry
 
@@ -152,29 +155,14 @@ representation, and scattering model affect the calculated results.
 
 ---
 
-## What I Learned
+## Project Takeaways
 
-This project gave me hands-on experience applying computational chemistry
-methods to a challenging scattering problem and working with research software
-on a high-performance computing system.
+This project gave me experience with the end-to-end workflow of a
+computational research project:
 
-In particular, I developed experience with:
+**molecular model preparation → computational setup → HPC calculations →
+troubleshooting → data analysis → benchmarking → scientific communication**
 
-- Setting up and troubleshooting computational chemistry calculations
-- Working with quantum chemistry and electron-scattering software
-- Running scientific calculations on Linux/HPC systems
-- Analyzing and visualizing numerical simulation data
-- Comparing independent computational approaches
-- Benchmarking computational results against literature values
-- Communicating technical results through scientific writing and presentation
-
----
-
-## Summary
-
-This project combined quantum chemistry, scattering theory, scientific
-programming, and high-performance computing to investigate electron-molecule
-scattering from methane. The use of both UKRmol+ and ASTRA provided an
-opportunity to compare computational approaches while developing practical
-experience with the full workflow from molecular model preparation through
-calculation, data analysis, and scientific communication.
+Through this work, I developed practical experience with computational
+quantum chemistry, electron-molecule scattering, scientific programming,
+high-performance computing, and communicating technical results.
