@@ -62,6 +62,8 @@ a Ramsauer-Townsend minimum and resonance structures.
 
 ![Methane molecule]({{ site.baseurl }}/assets/images/electron-scattering/CH4-geo-opt-D2.png)
 
+*Optimized CH₄ molecular geometry used in the scattering calculations.*
+
 ![Electron-scattering cross section]({{ site.baseurl }}/assets/images/electron-scattering/image18.png)
 
 *Calculated electron-scattering cross section as a function of incident electron energy.*
@@ -70,11 +72,11 @@ a Ramsauer-Townsend minimum and resonance structures.
 
 ### Presentation
 
-[View the project presentation (PDF)]({{ site.baseurl }}/assets/files/electron-scattering/presentation.pdf})
+[View the project presentation (PDF)](https://rxchel.github.io/rachellee/assets/files/electron-scattering/presentation.pdf)
 
 ### Report
 
-[View the project report (PDF)]({{ site.baseurl }}/assets/files/electron-scattering/report.pdf})
+[View the project report (PDF)](https://rxchel.github.io/rachellee/assets/files/electron-scattering/report.pdf)
 
 ## Summary
 
