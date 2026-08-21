@@ -60,7 +60,9 @@ a Ramsauer-Townsend minimum and resonance structures.
 
 ### Electron-Scattering Cross Section
 
-![Electron-scattering cross section]({{ site.baseurl }}/assets/images/electron-scattering/CH4-geo-opt-D2.png)
+![Methane molecule]({{ site.baseurl }}/assets/images/electron-scattering/CH4-geo-opt-D2.png)
+
+![Electron-scattering cross section]({{ site.baseurl }}/assets/images/electron-scattering/image18.png)
 
 *Calculated electron-scattering cross section as a function of incident electron energy.*
 
