@@ -68,11 +68,11 @@ a Ramsauer-Townsend minimum and resonance structures.
 
 ### Presentation
 
-[View the project presentation (PDF)]({{ site.baseurl }}assets/files/electron-scattering/Lee Rachel SURF Presentation 2026.pdf})
+[View the project presentation (PDF)]({{ site.baseurl }}/assets/files/electron-scattering/presentation.pdf})
 
 ### Report
 
-[View the project report (PDF)]({{ site.baseurl }}/assets/files/electron-scattering/Report (3).pdf})
+[View the project report (PDF)]({{ site.baseurl }}/assets/files/electron-scattering/report.pdf})
 
 ## Summary
 
