@@ -18,6 +18,8 @@ My current areas of interest include:
 
 ---
 
+## Research Experiences
+
 My research experiences include:
 
 - Developing machine-learned interatomic potentials for defective
@@ -31,10 +33,6 @@ My research experiences include:
 
 I am particularly interested in projects where computational methods can be
 used to understand complex chemical and materials systems.
-
----
-
-## Research Experience
 
 ### _Ab Initio_ Electron-Molecule Scattering Calculations for Methane Using UKRMol+ and ASTRA
 **Dr. Thomas C. Allison and Dr. Siddhartha Chattopadhyay · National Institute of Standards and Technology**  
