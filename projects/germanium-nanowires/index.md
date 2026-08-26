@@ -34,6 +34,10 @@ I characterized fabricated UMEs using **cyclic voltammetry** to evaluate their e
 
 I collected cyclic voltammograms using a three-electrode cell and analyzed the resulting data with OriginPro. I fitted the voltammetric response to determine the steady-state current and calculate UME dimensions, obtaining an average electrode radius of approximately 16.7 μm.
 
+![Cyclic voltammogram]({{ site.baseurl }}/assets/images/germanium-nanowires/Picture1.png)
+
+*Cyclic voltammogram generated from using a 17 μm radius Pt UME as the working electrode.*
+
 ### Germanium Nanowire Growth
 
 I studied Ge deposition using the ec-LLS crystal growth mechanism, in which Ge ions are reduced from solution, dissolve into a eutectic gallium-indium (e-GaIn) droplet, and subsequently form crystalline Ge once the liquid phase becomes supersaturated.
@@ -46,13 +50,9 @@ I analyzed microscopy and electrochemical data to investigate where Ge was depos
 
 The experiments showed a significant presence of Ge on approximately half of the Pt UMEs analyzed, while the Cu UMEs examined did not show significant Ge deposition. I also observed changes in the e-GaIn droplet after applying bias, providing insight into the electrochemical processes occurring during growth.
 
-### Data Analysis
+![SEM image of Ge nanowires]({{ site.baseurl }}/assets/images/germanium-nanowires/Pt6_4.bmp)
 
-I processed and analyzed calculated electron-scattering cross sections as a
-function of incident electron energy using **Python**.
-
-I compared results from UKRmol+ and ASTRA and benchmarked the calculations
-against literature values to evaluate the calculated scattering behavior.
+*SEM image of Ge nanowires grown from Pt UME.*
 
 ---
 
