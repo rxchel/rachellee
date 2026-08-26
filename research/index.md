@@ -34,6 +34,8 @@ My research experiences include:
 I am particularly interested in projects where computational methods can be
 used to understand complex chemical and materials systems.
 
+---
+
 ### _Ab Initio_ Electron-Molecule Scattering Calculations for Methane Using UKRMol+ and ASTRA
 **Dr. Thomas C. Allison and Dr. Siddhartha Chattopadhyay · National Institute of Standards and Technology**  
 *May 2026 – August 2026*
