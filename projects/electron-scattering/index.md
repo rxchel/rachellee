@@ -4,9 +4,9 @@ title: Electron-Molecule Scattering
 permalink: /projects/electron-scattering/
 ---
 
-# Electron-Molecule Scattering
+# _Ab Initio_ Electron-Molecule Scattering Calculations for Methane Using UKRMol+ and ASTRA
 
-**Computational Chemistry · Quantum Scattering · Scientific Computing · HPC**
+**Computational Chemistry · Quantum Scattering · Scientific Computing · Physical Chemistry**
 
 ## Project Overview
 
@@ -116,6 +116,7 @@ methodology and model parameters influence the calculated scattering results.
 - Linux
 - High-performance computing
 - Command-line workflows
+- Python notebooks
 
 ---
 
