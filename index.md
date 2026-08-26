@@ -53,39 +53,48 @@ Atomic Absorption Spectroscopy**
 ## Awards and Recognition
 ### Tau Beta Pi Scholarship
 _Tau Beta Pi · 2026 · $2000_
+
 The Tau Beta PI Association is the oldest engineering honors society in the United States. Scholarships are given on the basis of academic achievement, extracurricular activities, and the promise of substantial contributions to the engineering profession.
 
 ### Senior Engineering Tuition Scholarship
 _Cooper Union · 2026 · $17275_
+
 The Cooper Union's merit-based scholarship awarded to all undergraduate senior students in good academic standing.
 
 ### Innovator Scholarship
 _Cooper Union · 2023-2026 · $20000_
+
 The Cooper Union's merit-based scholarship awarded to distinguished students.
 
 ### Half-Tuition Scholarship
 _Cooper Union · 2023-2026 · $89100_
+
 The Cooper Union's merit-based scholarship awarded to all undergraduate students in good academic standing.
 
 ### Maxwell Lincer Fellowship Award
 _The Cooper Union · 2025 · $300_
+
 The Cooper Union's merit-based scholarship awarded to distinguished students. This award was made possible
 through the generous donation of Maxwell Lincer to the Cooper Union.
 
 ### Society of American Military Engineers Scholarship
 _Society of American Military Engineers · 2025 · $500_
+
 The Society of American Military Engineers (SAME) is a professional Society which maintains the highest standards of professionalism, fosters the exchange of ideas, and encourages teamwork between military and civilian engineers and architects. Awardees are nominated through their home institutions based on demonstrated exceptional academic performance and career potential.
 
 ### Cooper Union Freshman Chemistry Achievement Award
 _Cooper Union · 2024_
-The Cooper Union Freshman Chemistry Achievement Award recognizes students for their outstanding achievements and engagement in the study of chemistry during their first year at Cooper Union. Students must complete all first-year courses in chemistry at Cooper Union (Ch 110, Ch 111 and Ch 160/161), receive the recommendation of the faculty, and have completed all of this coursework at Cooper Union during their first year of college. 
 
-### M3 Technology TWU Local 100 Scholarship
-_Transit Workers Union Local 100 · 2024 · $500_
+The Cooper Union Freshman Chemistry Achievement Award recognizes students for their outstanding achievements and engagement in the study of chemistry during their first year at Cooper Union. Students must complete all first-year courses in chemistry at Cooper Union (Ch 110, Ch 111 and Ch 160/161), receive the recommendation of the faculty, and have completed all of this coursework at Cooper Union during their first year of college. 
 
 ### Cooper Hawks Grant
 _Cooper Union · 2023 · $13769_
+
 The Cooper Union's merit-based scholarship awarded to distinguished students.
+
+### M3 Technology TWU Local 100 Scholarshi
+_Transit Workers Union Local 100 · 2024 · $500_
+
 
 ---
 
