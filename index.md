@@ -50,7 +50,7 @@ Atomic Absorption Spectroscopy**
 
 ---
 
-## Awards and Recognition ($10000+)
+## Awards and Recognition ($100000+)
 ### Tau Beta Pi Scholarship
 _Tau Beta Pi · 2026 · $2000_
 
