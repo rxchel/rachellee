@@ -18,6 +18,22 @@ My current areas of interest include:
 
 ---
 
+## Presentations and Publications
+
+- Lee, R.; Sharma, A. K. *Open-Source 3D Printed Demonstrations for
+  Visualizing Transverse Wave Motion.* AIChE ACS Poster Competition, 2025.
+- Lee, Rachel; Lane, John Michael; Wilson, Woodrow; and Rai, Neeraj, "Investigating the Defect Behavior and Electronic Properties of Formamidinium Lead Bromide Perovskite through Machine Learned Interatomic Potentials" (2025). _Research Experiences for Undergraduates in Computational Methods with Applications in Materials Science_. 15. [https://scholarsjunction.msstate.edu/ccs-reu/15](https://scholarsjunction.msstate.edu/ccs-reu/15). 
+- Lee, R.; Lane, J. M.; Wilson, W. N.; Rai, N. *Investigating the Defect
+  Behavior and Electronic Properties of Formamidinium Lead Bromide Perovskite
+  through Machine Learned Interatomic Potentials.* Undergraduate Research
+  Symposium, 2025.
+- Lee, R.; Rich, L. C.; Maldonado, S. *Fundamental Study of Germanium
+  Nanowire Growth and Deposition.* AIChE ACS Poster Competition, 2024.
+- Lee, R.; Rich, L. C.; Maldonado, S. *Fundamental Study of Germanium
+  Nanowire Growth and Deposition.* URAN|UM Symposium, 2024.
+
+---
+
 ## Research Experiences
 
 My research experiences include:
