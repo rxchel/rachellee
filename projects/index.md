@@ -65,4 +65,20 @@ The project explored how low-cost, open-source 3D-printed models can provide tac
 
 [View the project presentation (PDF)](https://rxchel.github.io/rachellee/assets/files/transverse-waves/presentation.pdf)
 
+---
+
+### Comparing the Energy Requirements for Maple Syrup Production through Boiling and Freezing Methods
+
+**The Cooper Union**
+
+I investigated the energy efficiency of boiling and freezing methods for maple syrup production, comparing traditional evaporation with an alternative freezing-based concentration process.
+
+I experimentally produced syrup using both methods and analyzed the heat and energy requirements of each process using thermodynamic principles, including specific heat capacities, phase changes, enthalpy, and refrigeration-cycle analysis. The freezing method required substantially less energy than boiling, although it produced a less concentrated syrup under the experimental conditions.
+
+This project demonstrated how thermodynamic analysis and process comparison can be used to evaluate energy-efficient alternatives to conventional chemical processes, with broader relevance to sustainable process design and energy conservation.
+
+**Tools:** Thermodynamics, Energy Analysis, Experimental Design, Data Analysis
+
+[View the project presentation (PDF)](https://rxchel.github.io/rachellee/assets/files/maple-syrup/presentation.pdf)
+
 
