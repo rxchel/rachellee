@@ -132,8 +132,6 @@ resonance structures.
 The calculated results were compared between UKRmol+ and ASTRA and benchmarked
 against literature values.
 
-### Molecular Geometry
-
 ![Methane molecular geometry]({{ site.baseurl }}/assets/images/electron-scattering/CH4-geo-opt-D2.png)
 
 *Optimized CH₄ molecular geometry used in the scattering calculations.*
