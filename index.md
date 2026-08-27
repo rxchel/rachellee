@@ -92,7 +92,7 @@ _Cooper Union · 2023 · $13769_
 
 The Cooper Union's merit-based scholarship awarded to distinguished students.
 
-### M3 Technology TWU Local 100 Scholarshi
+### M3 Technology TWU Local 100 Scholarship
 _Transit Workers Union Local 100 · 2024 · $500_
 
 
