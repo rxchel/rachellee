@@ -8,6 +8,10 @@ permalink: /projects/perovskite-defects/
 
 **Computational Chemistry · Machine Learning · Molecular Dynamics · High Performance Computing**
 
+![MLIP simulation of a FAPbBr₃ system containing a Schottky defect]({{ site.baseurl }}/assets/images/perovskite-defects/Model2train0-Schottky600.gif)
+
+*MLIP simulation of a FAPbBr₃ system containing a Schottky defect.*
+
 ## Project Overview
 
 This project investigated how **point defects affect the structural and electronic properties of formamidinium lead bromide (FAPbBr₃) perovskites**, a class of semiconductor materials with promising applications in optoelectronic devices.
