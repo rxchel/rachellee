@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technical
-permalink: /projects/technical/
+permalink: /other/technical/
 ---
 
 - [Presentation on the theory, setup, and applications of scanning electron microscopy](https://rxchel.github.io/rachellee/assets/files/other/SEM-Ph214.pdf)
