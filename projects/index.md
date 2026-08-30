@@ -81,4 +81,14 @@ This project demonstrated how thermodynamic analysis and process comparison can 
 
 [View the project presentation (PDF)](https://rxchel.github.io/rachellee/assets/files/maple-syrup/presentation.pdf)
 
+---
 
+### Bio-Inspired Pipe Inspection Robot for Aging Water Infrastructure
+
+**The Cooper Union**
+
+Team-based engineering design project developing a bio-inspired robot for inspecting and relining aging water pipes. The project explored an inflatable, air-powered locomotion system inspired by ribbon worms to create a flexible robot capable of navigating narrow pipes and sharp turns while minimizing electronic components.
+
+**Tools:** CAD, Prototyping, 3D Printing, Mechanical Design, Engineering Analysis
+
+[View Project →](./pipe-worm/)
