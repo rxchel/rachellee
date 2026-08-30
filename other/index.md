@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other
-permalink: /other
+permalink: /other/
 ---
 
 **[Writing Samples](./technical)**
