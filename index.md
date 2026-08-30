@@ -25,28 +25,28 @@ I enjoy working at the intersection of chemistry, materials science, computation
 
 ### Programming
 
-**Python · C · C++ · R · HTML · CSS · JavaScript**
+Python · C · C++ · R · HTML · CSS · JavaScript
 
 ### Scientific & Computational Software
 
-**CP2K · MACE · VASP · VMD · Psi4 · Spartan · UKRmol+ · ASTRA**
+CP2K · MACE · VASP · VMD · Psi4 · Spartan · UKRmol+ · ASTRA
 
 ### Engineering & Design Software
 
-**SolidWorks · AutoCAD · Onshape · Prusa Slicer · Aspen**
+SolidWorks · AutoCAD · Onshape · Prusa Slicer · Aspen
 
 ### Scientific & Technical Tools
 
-**Git · Vim · Overleaf · LaTeX**
+Git · Vim · Overleaf · LaTeX
 
 ### Laboratory Techniques
 
-**Spectroscopy · Chromatography · Distillation · FTIR · GC-MS · NMR · HPLC ·
-Atomic Absorption Spectroscopy**
+Spectroscopy · Chromatography · Distillation · FTIR · GC-MS · NMR · HPLC ·
+Atomic Absorption Spectroscopy
 
 ### Languages
 
-**English · Chinese · Spanish**
+English · Chinese · Spanish
 
 ---
 
